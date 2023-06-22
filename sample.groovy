@@ -1,7 +1,7 @@
 class Example { 
    static void main(String[] args) { 
       //initializing a local variable 
-      int a = 2
+      int a = 2;
 		
       //Evaluating the expression value 
       switch(a) {            
